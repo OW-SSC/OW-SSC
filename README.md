@@ -1,6 +1,6 @@
 ## Hello there, this is Owen Wilding 
 
-I am currently a student learning technical and creative computing on an extended level 3 diploma! Currently i'm learning the basics of website design and portfolio creation.
+I am currently a student learning technical and creative computing on an extended level 3 diploma! Currently i'm learning the basics of website design and portfolio creation, I have 2 years of coding experience so far in C# and HTML
 
 ## About me 
 
